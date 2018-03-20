@@ -38,6 +38,7 @@ Our solution to the problem above is as simple as this: you give a quick micropa
 * Chrome extension or remote site to permit users to bypass a paywall
 * Challenge: ensuring that this system can't be exploited -- specifically, if a person gets a cookie-session and can access all articles on a site for, say, $0.10, then we (the providers) have a problem. Cookies must expire and must not be duplicable
 * Benefit: paying $0.10 to read an article is better than having to scour the Internet for a copy of that same article, or making a dozen fake emails to get free trials for a given site (not advocating for this, but people actually do this haha)
+* Pay to replace ads. In other words, pay the site instead of turning off your adblocker/whitelisting the site, which you probably do.
 
 ## Team
 We are a team of computer science students at Penn that chose to develop this idea as part of a development course in Solidity.
